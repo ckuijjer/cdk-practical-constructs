@@ -30,8 +30,8 @@ dependencies:
     specifier: ^1.0.7
     version: 1.0.7
   axios:
-    specifier: ^1.11.0
-    version: 1.11.0
+    specifier: ^1.12.0
+    version: 1.13.2
   constructs:
     specifier: ^10.3.0
     version: 10.3.0
@@ -3249,8 +3249,8 @@ packages:
       xml2js: 0.5.0
     dev: false
 
-  /axios@1.11.0:
-    resolution: {integrity: sha512-1Lx3WLFQWm3ooKDYZD1eXmoGO9fxYQjrycfHFC8P0sCfQVXyROp0p9PFWBehewBOdCwHc+f/b8I0fMto5eSfwA==}
+  /axios@1.13.2:
+    resolution: {integrity: sha512-VPk9ebNqPcy5lRGuSlKx752IlDatOjT9paPlm8A7yOuW2Fbvp4X3JznJtT4f0GzGLLiWE9W8onz51SqLYwzGaA==}
     dependencies:
       follow-redirects: 1.15.6
       form-data: 4.0.4
